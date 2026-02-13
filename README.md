@@ -284,16 +284,16 @@ IGS-CAPSTONE/
 
 | **File** | **Google Drive Link** |
 |----------|----------------------|
-| Ian Lusule-CV{English,Kisw,Luhya}.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1s1gM5EoFnseoZHSLPuJw2MQEU5pvVEBI/view?usp=drive_link)] |
-| AUTOBIOGRAPHY FOR IAN LUSULE.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/10msMPrkzSpZv_OFufS0hS5_pf6u8xe7E/view?usp=drive_link)] |
-| M-Pesa More Than Money – A Kenyan Innovation that Redefined Digital Inclusion.mp4 | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/10KygUHtXRvxvnPFhkyszzsVDgcEw034B/view?usp=drive_link)] |
-| {ABSTRACT}M-Pesa More Than Money – A Kenyan Innovation that Redefined Digital Inclusion.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1oZspV_OFzjIUW_5M6pXPFJp58BFP_i4Q/view?usp=drive_link)] |
-| Ubuntu and Agile How an African Philosophy Can Humanize Tech Development.mp4 | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1w9McJn84FhcNuwzKtpO5EAur4ITzukBE/view?usp=drive_link)] |
-| {ABSTRACT}Ubuntu and Agile How an African Philosophy Can Humanize Tech Development.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1FiqQg_DPtar6vUrXQD8Df0zvJoGI5A7t/view?usp=drive_link)] |
-| The Societal Challenge Video.mp4 | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1IErDI_XyV5I6uT5lnVjo3LZLl5SGYZde/view?usp=drive_link)] |
-| {ABSTRACT}The Societal Challenge Video.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1ALwJrxx01rx8acFeLxKCTNUJTtt4lSNH/view?usp=drive_link)] |
-| Photographic Essay on the Digital Divide in Eldoret_s Markets and Homes.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/14Dat50pQxHdPftYO53vhSPxIlMTzYG7K/view?usp=drive_link)] |
-| Professional Digital Footprint and Online Presence.pdf | [[INSERT DRIVE LINK HERE](https://drive.google.com/file/d/1jkZvqXApJtMy-3JeOUDrUN-UvPvciUGR/view?usp=drive_link)] |
+| Ian Lusule-CV{English,Kisw,Luhya}.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/1s1gM5EoFnseoZHSLPuJw2MQEU5pvVEBI/view?usp=drive_link)] |
+| AUTOBIOGRAPHY FOR IAN LUSULE.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/10msMPrkzSpZv_OFufS0hS5_pf6u8xe7E/view?usp=drive_link)] |
+| M-Pesa More Than Money – A Kenyan Innovation that Redefined Digital Inclusion.mp4 | [[DRIVE LINK HERE](https://drive.google.com/file/d/10KygUHtXRvxvnPFhkyszzsVDgcEw034B/view?usp=drive_link)] |
+| {ABSTRACT}M-Pesa More Than Money – A Kenyan Innovation that Redefined Digital Inclusion.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/1oZspV_OFzjIUW_5M6pXPFJp58BFP_i4Q/view?usp=drive_link)] |
+| Ubuntu and Agile How an African Philosophy Can Humanize Tech Development.mp4 | [[DRIVE LINK HERE](https://drive.google.com/file/d/1w9McJn84FhcNuwzKtpO5EAur4ITzukBE/view?usp=drive_link)] |
+| {ABSTRACT}Ubuntu and Agile How an African Philosophy Can Humanize Tech Development.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/1FiqQg_DPtar6vUrXQD8Df0zvJoGI5A7t/view?usp=drive_link)] |
+| The Societal Challenge Video.mp4 | [[DRIVE LINK HERE](https://drive.google.com/file/d/1IErDI_XyV5I6uT5lnVjo3LZLl5SGYZde/view?usp=drive_link)] |
+| {ABSTRACT}The Societal Challenge Video.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/1ALwJrxx01rx8acFeLxKCTNUJTtt4lSNH/view?usp=drive_link)] |
+| Photographic Essay on the Digital Divide in Eldoret_s Markets and Homes.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/14Dat50pQxHdPftYO53vhSPxIlMTzYG7K/view?usp=drive_link)] |
+| Professional Digital Footprint and Online Presence.pdf | [[DRIVE LINK HERE](https://drive.google.com/file/d/1jkZvqXApJtMy-3JeOUDrUN-UvPvciUGR/view?usp=drive_link)] |
 
 ---
 
