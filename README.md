@@ -1,6 +1,7 @@
 # IAN LUSULE
 ## IGS 4202: Critical Thinking and Communication Skills
-### Capstone Project 2 – Multimedia Self-Portrait Portfolio
+## Registration No: C026-01-0968/2022
+### Capstone Project – Multimedia Self-Portrait Portfolio
 
 ---
 
